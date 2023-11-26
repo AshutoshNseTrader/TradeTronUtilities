@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradetronChargesCalculator", "TradetronChargesCalculator\TradetronChargesCalculator.csproj", "{B6B3611E-7AB5-4293-B580-8BE2A492B995}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6B3611E-7AB5-4293-B580-8BE2A492B995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6B3611E-7AB5-4293-B580-8BE2A492B995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6B3611E-7AB5-4293-B580-8BE2A492B995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6B3611E-7AB5-4293-B580-8BE2A492B995}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4124D6A-45CC-4991-84A4-07A964D4A139}
+	EndGlobalSection
+EndGlobal
